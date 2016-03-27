@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">StrengthTracker</string>
+    <string name="sign_in_header">User Profile</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7626450466127255/6628508921</string>
+
+
+    <string-array name="exercise_array">
+        <item>Bench press</item>
+        <item>Back squat</item>
+        <item>Deadlift</item>
+        <item>Military press</item>
+        <item>Pull ups</item>
+        <item>Bent over row</item>
+        <item>Front squat</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="signed_in_fmt">Signed in as: %s</string>
+    <string name="email_in_fmt">Email: %s</string>
+    <string name="signed_in">Signed in</string>
+    <string name="signing_in">Signing in…</string>
+    <string name="signed_out">Signed out</string>
+    <string name="email"></string>
+    <string name="nav_header_status">You are not logged in yet</string>
+    <string name="tap_to_login">Tap to view profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="loading">Loading…</string>
+    <string name="title_text">Strength Tracker</string>
+
+    <string name="create_sample_data">Create sample data</string>
+    <string name="delete_all_notes">Delete all notes</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="all_deleted">All notes deleted</string>
+    <string name="title_activity_editor">EditorActivity</string>
+
+    <string name="reps">Reps</string>
+    <string name="weight">Weight (kg)</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="new_note">New exercise</string>
+    <string name="note_updated">Note updated</string>
+    <string name="content_save">Save</string>
+    <string name="exercise_saved">Exercise saved</string>
+    <string name="note">Note</string>
+    <string name="enter_note_here">Enter note here</string>
+
+    <string name="date">Select date</string>
+    <string name="widget">Days since last workout:</string>
+
+    <string name="invitation_title">Send App Invite</string>
+    <string name="invitation_message">This app is brilliant!</string>
+    <string name="invitation_cta">Install!</string>
+    <string name="sent_invitations_fmt" formatted="false">Sent %d invitations</string>
+    <string name="send_failed">Sending invitations failed</string>
+
+    <string name="set">Set 1:</string>
+
+
+    <!-- Content Description for images -->
+    <string name="desc_google_icon">Google Logo</string>
+
+    <string name="server_client_id">221576156646-i3hlt6616b2uk9rt0b6snmbd4umkpri5.apps.googleusercontent.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_all">Delete all exercises</string>
+    <string name="title_activity_settings1">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="calendar">Calendar</string>
+    <string name="progress">Profile</string>
+    <string name="tools">Tools</string>
+    <string name="timer">Timer</string>
+    <string name="settings">Settings</string>
+    <string name="add_set">add set</string>
+    <string name="remove_set">remove set</string>
+    <string name="floating_action_button">floating action button</string>
+    <string name="set1">Set:</string>
+    <string name="set_number">set number</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="user_name">user name</string>
+    <string name="user_email">user email</string>
+    <string name="exercise_name">exercise name</string>
+    <string name="strength_tracker">strength tracker</string>
+    <string name="email_address">email address</string>
+    <string name="sign_in_button">sign in button</string>
+    <string name="days_since_last_workout">days since last workout</string>
+    <string name="days">days</string>
+    <string name="refresh">refresh</string>
+    <string name="menu_home">menu home</string>
+    <string name="menu_history">menu history</string>
+    <string name="menu_calendar">menu calendar</string>
+    <string name="menu_progress">menu progress</string>
+    <string name="menu_settings">menu settings</string>
+    <string name="save_button">save button</string>
+</resources>

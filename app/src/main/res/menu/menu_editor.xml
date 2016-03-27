@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".EditorActivity">
+    <item
+        android:id="@+id/content_save"
+        android:title="@string/content_save"
+        android:contentDescription="@string/save_button"
+        android:icon="@drawable/content_save"
+        android:orderInCategory="100"
+        app:showAsAction="always"/>
+</menu>
